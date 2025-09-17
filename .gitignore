@@ -416,9 +416,15 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+<<<<<<< HEAD
 *.bak
 *.mdf
 *.ldf
+*.bak
+*.mdf
+*.ldf
+=======
+>>>>>>> 5f37a7495b123606ab3d8415c7ae33cd953f1413
 *.bak
 *.mdf
 *.ldf

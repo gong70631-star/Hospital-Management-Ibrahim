@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Hospital Management System (CareCoord)
 
 ## About the Project
@@ -37,3 +38,7 @@ Originally based on a college project, then customized and documented by Ibrahim
 **Ibrahim Al-Hassan**  
 📧 gong70631@gmail.com  
 GitHub: https://github.com/gong70631-star
+=======
+# Hospital-Management-Ibrahim
+Full-stack hospital management system built with C#, ASP.NET Core 7, and SQL Server. Includes patient, doctor, nurse, and admin dashboards.
+>>>>>>> 5f37a7495b123606ab3d8415c7ae33cd953f1413
