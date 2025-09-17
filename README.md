@@ -28,10 +28,10 @@ Originally based on a college project, then customized and documented by Ibrahim
    - `HMSproject/Areas/Identity/Pages/Account/Manage/DeletePersonalData.cshtml.cs`  
 
 ## Screenshots
-![Home](HMSproject/wwwroot/images/screenShot/home.png)  
-![Admin Panel](HMSproject/wwwroot/images/screenShot/admin.png)  
-![Doctor Dashboard](HMSproject/wwwroot/images/screenShot/doctor.png)  
-![Nurse Dashboard](HMSproject/wwwroot/images/screenShot/nurse.png)  
+![Home](https://github.com/gong70631-star/Hospital-Management-Ibrahim/raw/main/HMSproject/wwwroot/images/screenShot/home.png)
+![Admin Panel](https://github.com/gong70631-star/Hospital-Management-Ibrahim/raw/main/HMSproject/wwwroot/images/screenShot/admin.png)
+![Doctor Dashboard](https://github.com/gong70631-star/Hospital-Management-Ibrahim/raw/main/HMSproject/wwwroot/images/screenShot/doctor.png)
+![Nurse Dashboard](https://github.com/gong70631-star/Hospital-Management-Ibrahim/raw/main/HMSproject/wwwroot/images/screenShot/nurse.png)
 
 ## Author
 **Ibrahim Al-Hassan**  
